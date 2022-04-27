@@ -48,9 +48,7 @@ const PersonList = () => {
         </Person>
         <Person person={people[2]}/>
         <Person person={people[3]}>
-        Lorem ipsum dolor sit amet, consectetuer 
-        adipiscing elit. Aenean commodo ligula eget 
-        dolor. Aenean massa.
+        this is me and this is so damn me
         </Person>
         <Person person={people[4]}/>
       </section>
